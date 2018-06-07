@@ -1,0 +1,4 @@
+# learngit
+
+hello word 
+push
